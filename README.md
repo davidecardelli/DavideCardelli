@@ -15,7 +15,7 @@ _Languages, Tools & Frameworks:_
 <img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='40'>
 <img align='left' alt='Javascript' title="Javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40">
 <img align='left' alt='Vue.js' title="Vue.js" src="https://vuejs.org/images/logo.png" width='40'>
-<img align='left' alt='PHP' title="PHP" src="https://www.php.net/images/logos/php-logo-white.svg" width='40'>
+<img align='left' alt='PHP' title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width='40'>
 <img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='40'>
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='40'>
 <img align='left' alt='Wordpress' title='Wordpress' src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40">
