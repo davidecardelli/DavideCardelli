@@ -25,3 +25,8 @@ _Languages, Tools & Frameworks:_
 <br/>
 
 ---
+
+<img align='left' src="https://github-readme-stats.vercel.app/api/?username=davidecardelli&count_private=true&theme=apprentice&showicons=true" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidecardelli&langs_count=5&theme=apprentice" />
+<img align='left' src="https://komarev.com/ghpvc/?username=davidecardelli&&style=flat-square"/>
+
