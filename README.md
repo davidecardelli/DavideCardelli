@@ -1,6 +1,5 @@
-# Hello World, I'm [Davide](https://github.com/davidecardelli)
-
-Pippo
+<h1>Hello World 👋! I'm [Davide](https://github.com/davidecardelli)</h1>
+<h3>Jr Full-Stack Developer</h3>
 
 How to reach Me:
 
@@ -10,7 +9,6 @@ How to reach Me:
 
 _Languages, Tools & Frameworks:_
 
-<img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='40'>
 <img align='left' alt='HTML' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='40'>
 <img align='left' alt='CSS' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='40'>
 <img align='left' alt='SASS' title="SCSS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='40'>
@@ -21,6 +19,8 @@ _Languages, Tools & Frameworks:_
 <img align='left' alt='MySql' title="MySQL" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width='40'>
 <img align='left' alt='Laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='40'>
 <img align='left' alt='Wordpress' title='Wordpress' src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40">
+<img align='left' alt='Git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='40'>
+
 <br/>
 <br/>
 
