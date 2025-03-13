@@ -1,11 +1,12 @@
 # Davide Cardelli - Backend Developer
 
 > "Non è un bug, è una feature"
+<br>
 
 ```javascript
 const davide = {
-  core: ["PHP", "JavaScript", "MySQL"],
-  tools: ["Laravel", "Node.js", "Vue.js", "Git"],
+  core: ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+  framework: ["Laravel", "Node.js", "Vue.js", "Nuxt"],
   currentStatus: "debug(debug(debug()))",
   caffeine: Number.POSITIVE_INFINITY,
   commitStyle: "Fix"
@@ -16,8 +17,6 @@ const davide = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,vue,laravel,nodejs,express,mongodb,linux,git&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,jira&perline=6" />
 </p>
 
 ## Sopravvivenza Professionale
