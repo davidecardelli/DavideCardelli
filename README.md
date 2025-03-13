@@ -15,7 +15,7 @@ const davide = {
 
 ## Stack Tecnologico
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,vue,laravel,nodejs,express,mongodb,linux,git&perline=6" />
 </p>
 
