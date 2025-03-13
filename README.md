@@ -8,7 +8,7 @@ const davide = {
   tools: ["Laravel", "Node.js", "Vue.js", "Git"],
   currentStatus: "debug(debug(debug()))",
   caffeine: Number.POSITIVE_INFINITY,
-  commitStyle: "Non so perché, ma ora funziona"
+  commitStyle: "Fix"
 }
 ```
 
