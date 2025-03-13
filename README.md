@@ -33,7 +33,7 @@ const davide = {
 
 ## Statistiche Imbarazzanti
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Progetti%20Iniziati-∞-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Progetti%20Terminati-3-orange?style=for-the-badge" />
   <br>
@@ -44,7 +44,7 @@ const davide = {
 
 ## Contatti
 
-<p align="center">
+<p>
   <a href="mailto:davide.cardelli.94@gmail.com">
     <img src="https://img.shields.io/badge/davide.cardelli.94@gmail.com-Per%20emergenze%20di%20codice-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
